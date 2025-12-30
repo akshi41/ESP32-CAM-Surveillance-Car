@@ -45,6 +45,11 @@ A Wi-Fi controlled surveillance car using ESP32-CAM that provides real-time vide
 Motors connect to **Motor A and Motor B outputs** of the L298N module.
 
 ---
+## 🧱 Block Diagram
+![Block Diagram](ESP 32 cam Block Diagram.png)
+
+## 🔌 Circuit Diagram
+![Circuit Diagram](ESP32 cam Circuit diagram.png)
 
 ## 🧠 How It Works
 
